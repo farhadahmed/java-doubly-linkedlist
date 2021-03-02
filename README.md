@@ -1,4 +1,4 @@
-#Java-based Doubly Linkedlist#
+#Java-based Doubly Linkedlist
 
 This doubly linkedlist contains the following functionality:
 
