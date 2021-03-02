@@ -6,5 +6,5 @@ This doubly linkedlist contains the following functionality:
 * Append node
 * Remove node
 * Traverse
-	** Forwards
-	** Backwards
+	* Forwards
+	* Backwards
